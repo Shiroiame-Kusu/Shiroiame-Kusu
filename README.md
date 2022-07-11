@@ -5,6 +5,7 @@
 - 🌱 在学那个万恶的php，但是现在却在写html（）
 - 💞️ Love or hate?The same.
 - 📫 我要摸鱼我要摸鱼我要摸鱼啊啊啊啊啊啊啊啊啊啊啊……
+- 📫 不要问我怎么写C#，我上一次写C#是在2019年
 
 <!---
 Shiroiame-Kusu/Shiroiame-Kusu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
