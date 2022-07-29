@@ -1,5 +1,5 @@
 ![image](https://api.bwmc.live/pc/)
-##白雨 楠
+
 <img alt="most used lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroiame-Kusu&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart&card_width=323"/>
 
 - 👋 Shiroiame-Kusu/白雨 楠
