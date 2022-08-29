@@ -3,7 +3,8 @@
 ## Shiroiame-Kusu/白雨 楠
 中文名：筱烷  
 日语名：白雨 楠（Shiroiame Kusu）
-~~所以你可以叫我筱宝或者烷宝，也可以叫楠酱~~  
+~~所以你可以叫我筱宝或者烷宝，也可以叫楠酱~~
+  
 [BWMC站长简介](https://cmu.bwmc.live/about-creator/)  
 
 - ### :hammer_and_pick: Used Languages
