@@ -2,7 +2,7 @@
 (图片来自自己的随机图api  
 ## Shiroiame-Kusu/白雨 楠
   
-### :hammer_and_pick: 
+### :hammer_and_pick: Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroiame-Kusu&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart&card_width=323"/>
 
 
