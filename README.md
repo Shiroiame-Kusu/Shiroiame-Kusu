@@ -1,8 +1,14 @@
 ![image](https://api.bwmc.live/pc/)
+(图片来自自己的随机图api  
+## Shiroiame-Kusu/白雨 楠
+  
+### :hammer_and_pick: 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroiame-Kusu&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart&card_width=323"/>
 
-![Kusu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiroiame-Kusu&show_icons=true&theme=radical)<img  align="right" width="50%" alt="most used lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroiame-Kusu&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart&card_width=323"/>
 
-- 👋 Shiroiame-Kusu/白雨 楠
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Shiroiame-Kusu&show_icons=true&theme=radical" />
+
+- 
 - 👀 喜欢摸鱼，打电动
 - 🌱 在学那个万恶的php，但是现在却在写html（）
 - 💞️ Love or hate?The same.
