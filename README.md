@@ -4,7 +4,7 @@
 中文名：筱烷  
 日语名：白雨 楠（Shiroiame Kusu）
 ~~所以你可以叫我筱宝或者烷宝，也可以叫楠酱~~  
-![BWMC站长简介](https://cmu.bwmc.live/about-creator/)  
+[BWMC站长简介](https://cmu.bwmc.live/about-creator/)  
 
 - ### :hammer_and_pick: Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroiame-Kusu&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart&card_width=323"/>
