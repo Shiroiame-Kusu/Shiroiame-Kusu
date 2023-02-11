@@ -1,4 +1,4 @@
-![image](https://api.bwmc.live/pc/)
+![image](https://cdn.kusu.icu/image/1.jpg)
 (图片来自自己的随机图api  
 ## Shiroiame-Kusu/白雨 楠
 中文名：筱烷  
@@ -21,7 +21,7 @@
 - ### Website
 **BWMC Community：** [https://cmu.bwmc.live](https://cmu.bwmc.live)  
 **BWMC OOM Part：** [https://bwmc.live](https://bwmc.live)
-~~(基于老版Kusunoki，毕竟我不会在生产环境整活)~~
+
 <!---
 Shiroiame-Kusu/Shiroiame-Kusu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
