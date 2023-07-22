@@ -16,10 +16,10 @@
 **BWMC Community：** [https://cmu.bwmc.live](https://cmu.bwmc.live)  
 **BWMC OOM Part：** [https://bwmc.live](https://bwmc.live)
 - ### Others
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroiame-Kusu&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart&card_width=323"/>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Shiroiame-Kusu&show_icons=true&theme=radical" />  
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroiame-Kusu&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart&card_width=323"/>
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Shiroiame-Kusu&show_icons=true&theme=radical" />  
 
-<img src="https://osu-sig.vercel.app/card?user=Shiroame_Kusu&mode=std&blur=6&animation=true&mini=true" />
+<img align="" src="https://osu-sig.vercel.app/card?user=Shiroame_Kusu&mode=std&blur=6&animation=true&mini=true" />
 <!---
 Shiroiame-Kusu/Shiroiame-Kusu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
