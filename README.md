@@ -1,4 +1,4 @@
-![image](https://cdn.kusu.micrsky.com/image/1.jpg)  
+![image](https://api.nyat.icu/api/pc)  
 ## Shiroiame-Kusu/白雨 楠
 中文名：筱烷  
 日语名：白雨 楠（Shiroiame Kusu）  
