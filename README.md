@@ -30,7 +30,7 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiroiame-Kusu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroiame-Kusu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/> -->
-  <img src="https://githubcard.com/Shiroiame-Kusu.svg?d=rhEsZCg01" height="165"/>
+  <img src="https://githubcard.com/Shiroiame-Kusu.svg?d=rhEsZCg0" height="165"/>
   <img src="https://githubcard.com/Shiroiame-Kusu.svg?d=bznrrAiQ" height="165"/>
   
 </p>
