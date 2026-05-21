@@ -1,4 +1,4 @@
-![banner](https://api.nyat.icu/api/pc)
+![banner](https://api.nyat.icu/api/image/pc)
 
 <h2 align="center">✨ Welcome to Shiroiame-Kusu’s Wonderland ✨</h2>
 
