@@ -1,56 +1,80 @@
-![banner](https://api.nyat.icu/api/image/pc)
-
-<h2 align="center">✨ Welcome to Shiroiame-Kusu’s Wonderland ✨</h2>
-
 <p align="center">
-🌸 中文名：筱烷 ｜ 日语名：白雨 楠 (Shiroiame Kusu) 🌸  
-~~所以你可以叫我筱宝、烷宝，或者楠酱喔 >///<~~  
+  <img src="https://api.nyat.icu/api/image/pc" alt="Shiroiame Kusu profile banner" width="100%" />
 </p>
 
----
-
-### 🐾 About Me
-- 🎮 喜欢摸鱼、打电动，也会沉迷 OSU!  
-- 🌱 前端、C#、Java 杂修，偶尔写点小玩意  
-- 💤 属于 INFP，爱幻想的小透明  
-- 🐱 喜欢可爱的东西 (比如你点进来看我 README！)
-
----
-
-### 🛠️ Develop Environment
-![Debian](https://img.shields.io/badge/-Debian13-F48FB1?style=flat-square&logo=debian&logoColor=white) 
-![Kali](https://img.shields.io/badge/-Kali_Linux-46C8FF?style=flat-square&logo=kalilinux&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS_Code-7E57C2?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-FF80AB?style=flat-square&logo=intellij-idea&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F06292?style=flat-square&logo=git&logoColor=white)  
-
----
-
-### 📊 My Stats
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiroiame-Kusu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroiame-Kusu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/> -->
-  <img src="https://githubcard.com/Shiroiame-Kusu.svg?d=rhEsZCg0&t=1" height="165"/>
-  <img src="https://githubcard.com/Shiroiame-Kusu.svg?d=bznrrAiQ" height="165"/>
-  
-</p>
-
----
-
-### 🎵 For Fun
-<p align="center">
-  <img src="https://osu-sig.vercel.app/card?user=Shiroame_Kusu&mode=std&blur=6&animation=true&mini=true" />
-</p>
-
----
-
-### 🐰 Contact Me
-<p align="center">
-💌 如果你想找我玩，可以通过 issue 留言，也可以在 osu! 上找到我哦~  
-</p>
-
----
+<h1 align="center">Shiroiame Kusu</h1>
 
 <p align="center">
-🌟 Thanks for visiting, have a wonderful day! 🌟  
+  <strong>Frontend enthusiast · C# &amp; Java tinkerer · osu! player</strong>
+</p>
+
+<p align="center">
+  Also known as <strong>筱烷</strong> in Chinese and <strong>白雨 楠</strong> in Japanese.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shiroiame-Kusu">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://osu.ppy.sh/users/Shiroame_Kusu">
+    <img src="https://img.shields.io/badge/osu!-Profile-FF66AA?style=for-the-badge&amp;logo=osu&amp;logoColor=white" alt="osu! profile" />
+  </a>
+</p>
+
+## 🌸 About Me
+
+Hi! I'm **Shiroiame Kusu**, a curious developer who enjoys exploring frontend development and turning small ideas into working projects.
+
+- 💻 I like experimenting with **frontend development, C#, and Java**.
+- 🐧 I use **CachyOS** as my daily system.
+- 🎮 Away from code, you will usually find me playing games or enjoying **osu!**.
+- ☁️ I am an **INFP**, a daydreamer, and a fan of all things cute.
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CachyOS-00AA88?style=flat-square&amp;logo=cachyos&amp;logoColor=white" alt="CachyOS" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&amp;logo=intellijidea&amp;logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+</p>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/Shiroiame-Kusu">
+    <img src="https://ghstats.dev/api/card?username=Shiroiame-Kusu&theme=tokyonight&hide=followers%2Cgrade%2Chours%2Cstreak%2Cavg%2Cactive_day%2Ctrend" alt="Shiroiame Kusu's GitHub contribution activity graph" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shiroiame-Kusu">
+    <img src="https://ghstats.dev/api/langs?username=Shiroiame-Kusu&theme=tokyonight" alt="Shiroiame Kusu's GitHub contribution streak" width="495" />
+  </a>
+</p>
+
+## 🎵 Rhythm Corner
+
+When I am not coding, I am probably on osu!, chasing a cleaner play.
+
+<p align="center">
+  <a href="https://osu.ppy.sh/users/Shiroame_Kusu">
+    <img src="https://osu-sig.vercel.app/card?user=Shiroame_Kusu&amp;mode=std&amp;blur=6&amp;animation=true&amp;mini=true" alt="Shiroame Kusu's osu! profile card" width="400" />
+  </a>
+</p>
+
+## 💌 Say Hello
+
+The easiest way to reach me is through [GitHub Issues](https://github.com/Shiroiame-Kusu/Shiroiame-Kusu/issues) or on [osu!](https://osu.ppy.sh/users/Shiroame_Kusu).
+
+<p align="center">
+  <sub>Thanks for stopping by. Have a lovely day!</sub>
 </p>
