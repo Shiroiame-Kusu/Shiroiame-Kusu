@@ -47,6 +47,11 @@ Hi! I'm **Shiroiame Kusu**, a curious developer who enjoys exploring frontend de
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
+## 🏆 Awards
+
+- 🥉 **Bronze Medal** · 2026 International Collegiate Programming Contest Xi'an Invitational Contest
+- 🥉 **Bronze Medal** · 2025 International Collegiate Programming Contest Xi'an Regional Contest
+
 ## 📊 GitHub Activity
 
 <p align="center">
