@@ -49,6 +49,7 @@ Hi! I'm **Shiroiame Kusu**, a curious developer who enjoys exploring frontend de
 
 ## 🏆 Awards
 
+- 🥉 **Bronze Medal** · 2026 International Collegiate Programming Contest Asia Shenyang Regional Contest
 - 🥉 **Bronze Medal** · 2026 International Collegiate Programming Contest Asia Wuhan Regional Contest
 - 🥉 **Bronze Medal** · 2026 International Collegiate Programming Contest Asia Xi'an Invitational Contest
 - 🥉 **Bronze Medal** · 2025 International Collegiate Programming Contest Asia Xi'an Regional Contest
